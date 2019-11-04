@@ -1,0 +1,2 @@
+# Challenge
+Find the flag in this [picture](https://2019shell1.picoctf.com/static/051b66965016a24bb62e5af66b28cbc0/pico_img.png). You can also find the file in /problems/so-meta_2_da856426d694a4f0637bf1b169d8524e.
