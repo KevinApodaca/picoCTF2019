@@ -1,0 +1,2 @@
+# Challenge
+Can you find the flag in [file](https://2019shell1.picoctf.com/static/10fd88d8ad2c63f1a6adfb520368f561/file)? This would be really tedious to look through manually, something tells me there is a better way. You can also find the file in /problems/first-grep_4_6b0be85ad029e98c683231bdafec396c on the shell server.

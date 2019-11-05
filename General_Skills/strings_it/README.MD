@@ -1,0 +1,2 @@
+# Challenge 
+Can you find the flag in [file](https://2019shell1.picoctf.com/static/639ddd52cf50a5a6c0e85f6ce46e0674/string_) without running it? You can also find the file in /problems/strings-it_1_7a67382a38fc00751a6b9b29b0872813 on the shell server.
