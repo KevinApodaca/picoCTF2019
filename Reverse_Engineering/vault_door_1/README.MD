@@ -1,0 +1,2 @@
+# Challenge
+This vault uses some complicated arrays! I hope you can make sense of it, special agent. The source code for this vault is here: [VaultDoor1.java](https://2019shell1.picoctf.com/static/7c285a3b805b4294bf9d67fa2cb7e2d0/VaultDoor1.java)
