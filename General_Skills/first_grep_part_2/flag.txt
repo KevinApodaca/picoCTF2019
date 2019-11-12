@@ -1,0 +1,1 @@
+picoCTF{grep_r_to_find_this_e4fa3ba7}
